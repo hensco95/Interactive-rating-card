@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Front end mentor solution](https://your-solution-url.com);
-- Live Site URL: [Interactive rating](https://your-live-site-url.com);
+- Live Site URL: [Interactive rating](https://i-card.netlify.app/);
 
 ## My process
 
